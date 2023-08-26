@@ -15,4 +15,4 @@ Implement logistic regression using only numpy to predict whether the income is 
 ## 3. Anomaly Detection: 
 Data Source: UCI Letter Image Recognition Data Set.
 
-Implemented a deep learning model to do anomaly detection.
+Implemented deep learning models (One Class SVM, Isolation forest, KNN and autoencoder) to perform anomaly detection.
