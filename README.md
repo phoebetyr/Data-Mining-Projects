@@ -17,7 +17,9 @@ Data Source: UCI Letter Image Recognition Data Set.
 
 Implemented deep learning models (One Class SVM, Isolation forest, KNN and autoencoder) to perform anomaly detection.
 
-## 4. Improving Sleep Quality with ML: 
+# Machine Learning Project
+
+## 1. Improving Sleep Quality with ML: 
 Data Source: Kaggle
 
 Group Project research article and ML project aimed to explore the usage of ML models (eg. Random Forest, LIME Interpretable ML model) to improve sleep quality.
